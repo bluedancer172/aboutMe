@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+>
+<style>  
+body {border: 5px solid #e3fcff;background-color: powderblue;}
+h1   {text-align:center;color: #000b2e; font-family:Comic Sans MS;}
+
+h2   {text-align:center;color:tomato; font-family:Comic Sans MS;}
+h3  {text-align:center;color:black; font-family:Comic Sans MS;}
+p {text-align:center;color: #031636; font-family:Comic Sans MS;}
+ul {color: #610d4a; font-family:Comic Sans MS;}
+h3 {border: 1px solid #e3fcff;}
+dl {color: #7a5e73; font-family:Comic Sans MS;}
+</style>
+<h1>Summer Activities!</h1>
+<h3> Because of Covid-19 and whatnot, alot of traditional summer activities can't be done. But fear not- We still can tons of fun doing similar/safer version of these activies, and try some new things as well! </h3>
+
+<h2>Covid-19 has made it so that we can't do some summer activities we'd usually do, such as~</h2>
+<ul>
+	<li>Going to a water park</li>
+    <li>Hanging out with friends</li>
+    <li>Going to a playground</li>
+    <li>Having a picnic</li>
+    <li>Etc.</li>
+</ul>
+<h3> However, we still can do some things, such as-</h3>
+<ul>
+<li> <a href="file:///home/njlm/Documents/biking.HTML">Biking</a> </li>
+<li> <a href="file:///home/njlm/Documents/animation.HTML">Animation</a> </li>
+
+
+</ul>
+
+</body>
+</html>
