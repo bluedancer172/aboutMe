@@ -1,0 +1,18 @@
+body {
+border: 5px solid #e3fcff;background-color: powderblue;
+}
+h1   {
+    text-align:center;color: #000b2e; font-family:Comic Sans MS;background-color: rgb(66, 135, 145);
+    }
+p {
+    text-align:center;color: #031636; font-family:Comic Sans MS;
+    }
+ul {
+    color: #610d4a; font-family:Comic Sans MS;
+    }
+h3 {
+    border: 1px solid #e3fcff;
+    }
+dl {
+    color: #7a5e73; font-family:Comic Sans MS;
+    }
